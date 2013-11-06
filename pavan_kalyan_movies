@@ -1,0 +1,38 @@
+{
+    "status": "ok",
+    "category": {
+        "id": 14,
+        "slug": "video",
+        "title": "Video"
+    },
+    "posts": [
+        {
+            "id": CbklMuDh7i0,
+            "url": "http://www.youtube.com/watch?v=CbklMuDh7i0",
+            "title": "Tholi Prema",
+            "content": "http://www.youtube.com/watch?v=CbklMuDh7i0",
+            "thumbnail": "http://i1.ytimg.com/vi/CbklMuDh7i0/hqdefault.jpg"
+        },
+        {
+            "id": 9ARiy0nzfF0,
+            "url": "http://www.youtube.com/watch?v=9ARiy0nzfF0",
+            "title": "kushi",
+            "content": "http://www.youtube.com/watch?v=9ARiy0nzfF0",
+            "thumbnail": "http://i1.ytimg.com/vi/9ARiy0nzfF0/hqdefault.jpg"
+        },
+        {
+            "id": mtKit9uhYrI,
+            "url": "http://www.youtube.com/watch?v=mtKit9uhYrI",
+            "title": "Panja",
+            "content": "http://www.youtube.com/watch?v=mtKit9uhYrI",
+            "thumbnail": "http://i1.ytimg.com/vi/mtKit9uhYrI/hqdefault.jpg"
+        },
+        {
+            "id": T-hXokmzU6k,
+            "url": "http://www.youtube.com/watch?v=T-hXokmzU6k",
+            "title": "Thamudu",
+            "content": "http://www.youtube.com/watch?v=T-hXokmzU6k",
+            "thumbnail": "http://i1.ytimg.com/vi/T-hXokmzU6k/hqdefault.jpg"
+        }
+    ]
+}
