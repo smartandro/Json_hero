@@ -1,0 +1,24 @@
+{
+    "status": "ok",
+    "category": {
+        "id": 14,
+        "slug": "video",
+        "title": "Video"
+    },
+    "posts": [
+        {
+            "id": CbklMuDh7i0,
+            "url": "http://www.youtube.com/watch?v=8sQnJ7OCZJI",
+            "title": "Kaatama Rayuda Song With Lyrics By Powerstar Pawan Kalyan",
+            "content": "http://www.youtube.com/watch?v=8sQnJ7OCZJI",
+            "thumbnail": "http://i1.ytimg.com/vi/8sQnJ7OCZJI/hqdefault.jpg"
+        },
+        {
+            "id": uupDtzYgEhQ,
+            "url": "http://www.youtube.com/watch?v=uupDtzYgEhQ",
+            "title": "Thammudu Movie - Edolavundi EE Vela Video Song",
+            "content": "http://www.youtube.com/watch?v=uupDtzYgEhQ",
+            "thumbnail": "http://i1.ytimg.com/vi/uupDtzYgEhQ/hqdefault.jpg"
+        }
+    ]
+}
