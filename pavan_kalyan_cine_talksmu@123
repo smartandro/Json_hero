@@ -1,0 +1,23 @@
+{
+    "status": "ok",
+    "category": {
+        "id": 14,
+        "slug": "video",
+        "title": "Video"
+    },
+    "posts": [
+        {
+            "id": 1,
+            "title": "Pawan Kalyan",
+            "content": "Edit Content",
+            "thumbnail": "http://s17.postimg.org/wuyv1um0b/background.jpg"
+            
+        },
+        {
+            "id": 2,
+            "url": "http://s23.postimg.org/645qslt6z/background.jpg",
+            "title": "Gabbhar Sing",
+            "thumbnail": "http://s17.postimg.org/wuyv1um0b/background.jpg"
+        }
+    ]
+}
