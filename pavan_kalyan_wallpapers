@@ -10,28 +10,28 @@
             "id": 1,
             "url": "http://i1.ytimg.com/vi/CbklMuDh7i0/hqdefault.jpg",
             "title": "Pawan Kalyan",
-            "thumbnail": "http://s7.postimg.org/fpetz6l8n/385846_211964378891021_1243701778_n.jpg"
-            "content": "File size discription etc should be mentioned"
+            "thumbnail": "http://s7.postimg.org/fpetz6l8n/385846_211964378891021_1243701778_n.jpg",
+            "content": "File size \n discription \n etc \n should be mentioned"
         },
         {
             "id": 2,
             "url": "http://s23.postimg.org/645qslt6z/background.jpg",
             "title": "Gabbhar Sing",
-            "thumbnail": "http://s17.postimg.org/wuyv1um0b/background.jpg"
+            "thumbnail": "http://s17.postimg.org/wuyv1um0b/background.jpg",
             "content": "File size discription etc should be mentioned"
         },
         {
             "id": 3,
             "url": "http://www.youtube.com/watch?v=mtKit9uhYrI",
             "title": "Panja",
-            "thumbnail": "http://i1.ytimg.com/vi/mtKit9uhYrI/hqdefault.jpg"
+            "thumbnail": "http://i1.ytimg.com/vi/mtKit9uhYrI/hqdefault.jpg",
             "content": "File size discription etc should be mentioned"
         },
         {
             "id": 4,
             "url": "http://s23.postimg.org/b6ro14ruz/images.jpg",
             "title": "On",
-            "thumbnail": "http://s23.postimg.org/kxozr3qbr/images.jpg"
+            "thumbnail": "http://s23.postimg.org/kxozr3qbr/images.jpg",
             "content": "File size discription etc should be mentioned"
         }
     ]
