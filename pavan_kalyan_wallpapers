@@ -11,28 +11,33 @@
             "url": "http://i1.ytimg.com/vi/CbklMuDh7i0/hqdefault.jpg",
             "title": "Pawan Kalyan",
             "thumbnail": "http://s7.postimg.org/fpetz6l8n/385846_211964378891021_1243701778_n.jpg",
-            "content": "File size \n discription \n etc \n should be mentioned"
+            "content": "File size \ndiscription \netc \nshould be mentioned",
+            "link": "http://i1.ytimg.com/vi/CbklMuDh7i0/hqdefault.jpg"    
         },
         {
             "id": 2,
             "url": "http://s23.postimg.org/645qslt6z/background.jpg",
             "title": "Gabbhar Sing",
             "thumbnail": "http://s17.postimg.org/wuyv1um0b/background.jpg",
-            "content": "File size \n discription \n etc \n should be mentioned"
+            "content": "File size \n discription \n etc \n should be mentioned",
+            "link": "http://s23.postimg.org/645qslt6z/background.jpg"
         },
         {
             "id": 3,
             "url": "http://www.youtube.com/watch?v=mtKit9uhYrI",
             "title": "Panja",
-            "thumbnail": "http://i1.ytimg.com/vi/mtKit9uhYrI/hqdefault.jpg",
-            "content": "File size \n discription \n etc \n should be mentioned"
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKkXHn8D5th6Uf0bsqm-3uwHgAFEFqAUJ-xzLUsYuNfxwsky4tyg,
+            "content": "File size \n discription \n etc \n should be mentioned",
+            "link": "http://aaplustv.com/03/wp-content/uploads/sites/12/2013/07/Attarintiki-Daredi-Movie-Pawan-Kalyan-Wallpapers-06.jpg"
         },
         {
             "id": 4,
             "url": "http://s23.postimg.org/b6ro14ruz/images.jpg",
             "title": "On",
-            "thumbnail": "http://s23.postimg.org/kxozr3qbr/images.jpg",
-            "content": "File size \n discription \n etc \n should be mentioned"
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM-kWSADlGsnY46mzbBX2OYrn0sMs84hSoSXYXNE8nLk0Eeir9",
+            "content": "File size \n discription \n etc \n should be mentioned",
+            "link": "http://2.bp.blogspot.com/-NbkMNiMYw90/UfEpIBpaNMI/AAAAAAAAAok/Rwu5gnWtI3I/s1600/Attarintiki+Daaredhi+Movie+New+Stills+(1).jpg"
+            
         }
     ]
 }
