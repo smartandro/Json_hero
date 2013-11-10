@@ -8,27 +8,11 @@
     "posts": [
         {
             "id": 1,
-            "url": "http://i1.ytimg.com/vi/CbklMuDh7i0/hqdefault.jpg",
-            "title": "Pawan Kalyan",
-            "thumbnail": "http://s7.postimg.org/fpetz6l8n/385846_211964378891021_1243701778_n.jpg"
-        },
-        {
-            "id": 2,
-            "url": "http://s23.postimg.org/645qslt6z/background.jpg",
-            "title": "Gabbhar Sing",
-            "thumbnail": "http://s17.postimg.org/wuyv1um0b/background.jpg"
-        },
-        {
-            "id": 3,
-            "url": "http://www.youtube.com/watch?v=mtKit9uhYrI",
-            "title": "Panja",
-            "thumbnail": "http://i1.ytimg.com/vi/mtKit9uhYrI/hqdefault.jpg"
-        },
-        {
-            "id": 4,
-            "url": "http://s23.postimg.org/b6ro14ruz/images.jpg",
-            "title": "On",
-            "thumbnail": "http://s23.postimg.org/kxozr3qbr/images.jpg"
+            "url": "http://s8.postimg.org/tn7c2p2qt/Akkada_Ammayi_Ikkada_Abbayi.jpg",
+            "title": "Akkada Ammayi Ikkada Abbayi(1996)",
+            "thumbnail": "http://s10.postimg.org/jtvryoid1/Akkada_Ammayi_Ikkada_Abbayi.jpg",
+            "content": "File Name: Akkada Ammayi Ikkada Abbayi(1996).zip/nFile size: 32.98 MB /n ",
+            "link": "https://dl.dropboxusercontent.com/s/ouuy37b5u919g2v/01.%20Akkada%20Ammayi%20Ikkada%20Abbayi%20%281996%29.zip?dl=1&token_hash=AAHDd5x4ePLBaBnd9EWWtTw28aJ5N1WVdnecLGzExp2uNg"    
         }
     ]
 }
